@@ -1,1 +1,1 @@
-# some projects while learning. no judging.
+some projects while learning. no judging.
